@@ -9,10 +9,15 @@ folder: general
 
 ## Submitting data to the DAT-Core
 
+**Add Protocol to Protocols.io**  Instructions here: EXTERNAL LINK
+https://docs.google.com/presentation/d/1WhoLvOVRIbCzu3x30Dd0O1cC09ZGT4g0IFOf4Eq7yfI/edit?usp=sharing
+**Create a folder in Blackfynn**  Instructions here: 
+
 {% include image.html file="sparc_workflow.png" alt="workflow" %}
 
 
 ### Creation of a draft dataset
+
 **Timeline:** Creation of a draft dataset is up to the investigator 
 
 **Who has access to the data:** The data is private and is accessible only to those that you specifically invite to access the data. Neither Blackfynn nor NIH can access the data unless you invite them.
