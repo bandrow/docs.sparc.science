@@ -13,6 +13,7 @@ folder: general
 
 
 ### Creation of a draft dataset
+
 **Timeline:** Creation of a draft dataset is up to the investigator 
 
 **Who has access to the data:** The data is private and is accessible only to those that you specifically invite to access the data. Neither Blackfynn nor NIH can access the data unless you invite them.
